@@ -1,0 +1,28 @@
+# Build artifacts
+build/
+build*/
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.d
+*.o
+*.a
+
+# IDEs
+.vscode/
+.idea/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Logs
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
